@@ -1,0 +1,34 @@
+# Environments and OS artifacts
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
+.env
+*.swp
+*.bak
+
+# Raw/derived datasets and generated outputs (never distributed in the code repository)
+data/
+tables/
+figures/
+Submission/
+docs/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.pkl
+*.geojson
+*.gpkg
+*.shp
+*.docx
+*.pdf
+*.png
+*.html
+*.tex
+*.aux
+*.log
+*.zip

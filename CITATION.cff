@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this analytical codebase in your research, please cite the software repository and the associated study."
+title: "Replication Codebase: Ocean extremes and fisher debt drive tipping points in coastal blue economies"
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/SezginTunca/ocean-extremes-fisher-debt-tipping-points"
+authors:
+  - family-names: "Tunca"
+    given-names: "Sezgin"
+    orcid: "https://orcid.org/0000-0001-6840-1466"
+    affiliation: "Department of Business and Sustainability, University of Southern Denmark"
+keywords:
+  - "agent-based modeling"
+  - "Earth system models"
+  - "CMIP6"
+  - "Metabolic Index"
+  - "coastal blue economy"
+  - "fisheries subsidies"
+  - "tipping points"
+  - "Sobol sensitivity analysis"
+  - "surrogate emulation"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Tunca"
+      given-names: "Sezgin"
+      orcid: "https://orcid.org/0000-0001-6840-1466"
+  title: "Ocean extremes and fisher debt drive tipping points in coastal blue economies"
+  journal: "Nature Climate Change"
+  year: 2026
+  notes: "Manuscript submitted"
